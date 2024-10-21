@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "OPGG Modal Remover",
+    "version": "1.0",
+    "description": "opgg adblock blocker blocker",
+    "content_scripts": [
+      {
+        "matches": ["https://www.op.gg/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "permissions": [
+      "activeTab"
+    ],
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+  }
+  
