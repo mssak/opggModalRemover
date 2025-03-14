@@ -1,6 +1,7 @@
 # What is this
 AdBlock 쓰면 OP.GG에서 열받는 모달창 나오는거 막아주는 프로그램
-![image](https://github.com/user-attachments/assets/f1b3ba44-beae-4881-a4e4-22f05bd29780)
+![image](https://github.com/user-attachments/assets/a1e4b4e5-1163-4b9b-b58b-77db4061958f)
+
 
 # How to use
 1. 레파지토리를 다운 받고 압축해제 합니다.
